@@ -1,5 +1,5 @@
 /*Layar Tablet*/
-@media all and (max-width: 1000px) {
+@media all and (max-width: 1024px) {
   #About {
     flex-wrap: wrap;
     text-align: center;
@@ -59,6 +59,10 @@
 /*Layar Samartphone*/
 @media screen and (max-width: 670px) {
   ul {
+    display: none;
+  }
+  
+  .logo {
     display: none;
   }
 
