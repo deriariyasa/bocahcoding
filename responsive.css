@@ -61,6 +61,15 @@
   ul {
     display: none;
   }
+  
+  .login {
+    font-size: 20px;
+    padding: 18px;
+  }
+  
+  .login {
+    width: 50%;
+  }
 
   #About {
     flex-wrap: wrap;
