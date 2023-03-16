@@ -37,6 +37,14 @@ nav a:hover {
   color: #65d6a0;
 }
 
+.login {
+  float: right;
+  font-size: 20px;
+  padding: 21px 53px 30px 10px;
+  cursor: pointer;
+  color: #65d6a0;
+}
+
 .jumbotron {
   font-size: 20px;
   padding: 60px;
