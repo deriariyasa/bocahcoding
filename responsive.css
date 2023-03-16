@@ -61,10 +61,6 @@
   ul {
     display: none;
   }
-  
-  .logo {
-    display: none;
-  }
 
   #About {
     flex-wrap: wrap;
