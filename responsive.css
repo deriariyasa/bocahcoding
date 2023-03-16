@@ -4,6 +4,11 @@
     flex-wrap: wrap;
     text-align: center;
   }
+  
+  nav a {
+    font-size: 12px;
+    font-weight: 400;
+  }
 
   .box-about {
     text-align: center;
